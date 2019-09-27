@@ -1,0 +1,14 @@
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\bin\Debug\netcoreapp2.2\PRSDbFirstTwo.deps.json
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\bin\Debug\netcoreapp2.2\PRSDbFirstTwo.runtimeconfig.json
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\bin\Debug\netcoreapp2.2\PRSDbFirstTwo.runtimeconfig.dev.json
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\bin\Debug\netcoreapp2.2\PRSDbFirstTwo.dll
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\bin\Debug\netcoreapp2.2\PRSDbFirstTwo.pdb
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\obj\Debug\netcoreapp2.2\PRSDbFirstTwo.csproj.CoreCompileInputs.cache
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\obj\Debug\netcoreapp2.2\PRSDbFirstTwo.RazorAssemblyInfo.cache
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\obj\Debug\netcoreapp2.2\PRSDbFirstTwo.RazorAssemblyInfo.cs
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\obj\Debug\netcoreapp2.2\PRSDbFirstTwo.AssemblyInfoInputs.cache
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\obj\Debug\netcoreapp2.2\PRSDbFirstTwo.AssemblyInfo.cs
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\obj\Debug\netcoreapp2.2\PRSDbFirstTwo.RazorTargetAssemblyInfo.cache
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\obj\Debug\netcoreapp2.2\PRSDbFirstTwo.dll
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\obj\Debug\netcoreapp2.2\PRSDbFirstTwo.pdb
+C:\repos\PRSDbFirstTwo\PRSDbFirstTwo\obj\Debug\netcoreapp2.2\PRSDbFirstTwo.csprojAssemblyReference.cache
